@@ -1,15 +1,13 @@
 {
-    "name": "spawn2k/php-mvc-core",
-   
+    "name": "spawn2k/phpmvc",
+
     "authors": [
         {
             "name": "Duy Tuan",
             "email": "duytuanvn1986@gmail.com"
         }
     ],
-    "require": {
-        "spawn2k/php-mvc-core": "dev-master"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "spawn2k\\phpmvc\\": "./"
