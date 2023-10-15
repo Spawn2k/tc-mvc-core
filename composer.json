@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "thecodeholic-mcv-projects\\phpmvc": "./"
+            "thecodeholic-mcv-projects\\phpmvc\\": "./"
         }
     }
 }
