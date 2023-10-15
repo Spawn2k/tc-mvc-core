@@ -1,7 +1,7 @@
 <?php
 
 
-namespace thecodeholic\phpmvc\form;
+namespace spawn2k\phpmvc\form;
 
 class TextareaField extends BaseField
 {

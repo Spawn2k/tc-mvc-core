@@ -1,5 +1,5 @@
 {
-    "name": "thecodeholic/php-mvc-core",
+    "name": "spawn2k/php-mvc-core",
    
     "authors": [
         {
@@ -8,11 +8,11 @@
         }
     ],
     "require": {
-        "thecodeholic/php-mvc-core": "dev-master"
+        "spawn2k/php-mvc-core": "dev-master"
     },
     "autoload": {
         "psr-4": {
-            "thecodeholic\\phpmvc\\": "./"
+            "spawn2k\\phpmvc\\": "./"
         }
     }
 }

@@ -1,9 +1,9 @@
 <?php
 
-namespace thecodeholic\phpmvc;
+namespace spawn2k\phpmvc;
 
-use thecodeholic\phpmvc\Application;
-use thecodeholic\phpmvc\middlewares\BaseMiddleware;
+use spawn2k\phpmvc\Application;
+use spawn2k\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

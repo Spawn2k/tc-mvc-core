@@ -1,6 +1,6 @@
 <?php
 
-namespace thecodeholic\phpmvc;
+namespace spawn2k\phpmvc;
 
 abstract class Model
 {

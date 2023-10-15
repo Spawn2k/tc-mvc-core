@@ -1,7 +1,7 @@
 <?php
 
 
-namespace thecodeholic\phpmvc;
+namespace spawn2k\phpmvc;
 
 
 class Session

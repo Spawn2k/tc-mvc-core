@@ -1,6 +1,6 @@
 <?php
 
-namespace thecodeholic\phpmvc\exception;
+namespace spawn2k\phpmvc\exception;
 
 
 class ForbiddenException extends \Exception

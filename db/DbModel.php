@@ -1,10 +1,10 @@
 <?php
 
 
-namespace thecodeholic\phpmvc\db;
+namespace spawn2k\phpmvc\db;
 
-use thecodeholic\phpmvc\Application;
-use thecodeholic\phpmvc\Model;
+use spawn2k\phpmvc\Application;
+use spawn2k\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

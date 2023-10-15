@@ -1,9 +1,9 @@
 <?php
 
-namespace thecodeholic\phpmvc;
+namespace spawn2k\phpmvc;
 
-use thecodeholic\phpmvc\db\Database;
-use thecodeholic\phpmvc\db\DbModel;
+use spawn2k\phpmvc\db\Database;
+use spawn2k\phpmvc\db\DbModel;
 use app\models\User;
 
 class Application

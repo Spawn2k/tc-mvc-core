@@ -1,10 +1,10 @@
 <?php
 
 
-namespace thecodeholic\phpmvc\middlewares;
+namespace spawn2k\phpmvc\middlewares;
 
-use thecodeholic\phpmvc\Application;
-use thecodeholic\phpmvc\exception\ForbiddenException;
+use spawn2k\phpmvc\Application;
+use spawn2k\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

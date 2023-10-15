@@ -1,8 +1,8 @@
 <?php
 
-namespace thecodeholic\phpmvc\form;
+namespace spawn2k\phpmvc\form;
 
-use thecodeholic\phpmvc\Model;
+use spawn2k\phpmvc\Model;
 
 class InputField extends BaseField
 {

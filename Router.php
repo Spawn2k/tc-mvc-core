@@ -1,11 +1,11 @@
 <?php
 
 
-namespace thecodeholic\phpmvc;
+namespace spawn2k\phpmvc;
 
 use app\Controllers;
-use thecodeholic\phpmvc\exception\ForbiddenException;
-use thecodeholic\phpmvc\exception\NotFoundException;
+use spawn2k\phpmvc\exception\ForbiddenException;
+use spawn2k\phpmvc\exception\NotFoundException;
 
 class Router
 {
@@ -47,7 +47,7 @@ class Router
     }
 
     if (is_array($callback)) {
-      /** @var \thecodeholic\phpmvc\Controller $controller */
+      /** @var \spawn2k\phpmvc\Controller $controller */
       $controller  = new $callback[0]();
       Application::$app->controller = $controller;
       $controller->action = $callback[1];
