@@ -1,10 +1,10 @@
 <?php
 
 
-namespace thecodeholic-mcv-projects\phpmvc\middlewares;
+namespace thecodeholic\phpmvc\middlewares;
 
-use thecodeholic-mcv-projects\phpmvc\Application;
-use thecodeholic-mcv-projects\phpmvc\exception\ForbiddenException;
+use thecodeholic\phpmvc\Application;
+use thecodeholic\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

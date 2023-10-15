@@ -1,5 +1,5 @@
 {
-    "name": "thecodeholic-mcv-projects/php-mvc-core",
+    "name": "thecodeholic/php-mvc-core",
    
     "authors": [
         {
@@ -7,10 +7,12 @@
             "email": "duytuanvn1986@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "thecodeholic/php-mvc-core": "dev-master"
+    },
     "autoload": {
         "psr-4": {
-            "thecodeholic-mcv-projects\\phpmvc\\": "./"
+            "thecodeholic\\phpmvc\\": "./"
         }
     }
 }

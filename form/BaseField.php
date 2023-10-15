@@ -1,8 +1,8 @@
 <?php
 
-namespace thecodeholic-mcv-projects\phpmvc\form;
+namespace thecodeholic\phpmvc\form;
 
-use thecodeholic-mcv-projects\phpmvc\Model;
+use thecodeholic\phpmvc\Model;
 
 abstract class BaseField
 {

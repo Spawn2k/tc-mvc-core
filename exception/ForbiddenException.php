@@ -1,6 +1,6 @@
 <?php
 
-namespace thecodeholic-mcv-projects\phpmvc\exception;
+namespace thecodeholic\phpmvc\exception;
 
 
 class ForbiddenException extends \Exception

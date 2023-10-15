@@ -1,11 +1,11 @@
 <?php
 
 
-namespace thecodeholic-mcv-projects\phpmvc;
+namespace thecodeholic\phpmvc;
 
 use app\Controllers;
-use thecodeholic-mcv-projects\phpmvc\exception\ForbiddenException;
-use thecodeholic-mcv-projects\phpmvc\exception\NotFoundException;
+use thecodeholic\phpmvc\exception\ForbiddenException;
+use thecodeholic\phpmvc\exception\NotFoundException;
 
 class Router
 {
@@ -47,7 +47,7 @@ class Router
     }
 
     if (is_array($callback)) {
-      /** @var \thecodeholic-mcv-projects\phpmvc\Controller $controller */
+      /** @var \thecodeholic\phpmvc\Controller $controller */
       $controller  = new $callback[0]();
       Application::$app->controller = $controller;
       $controller->action = $callback[1];

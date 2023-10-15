@@ -1,6 +1,6 @@
 <?php
 
-namespace thecodeholic-mcv-projects\phpmvc;
+namespace thecodeholic\phpmvc;
 
 class Response
 {

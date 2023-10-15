@@ -1,8 +1,8 @@
 <?php
 
-namespace thecodeholic-mcv-projects\phpmvc\db;
+namespace thecodeholic\phpmvc\db;
 
-use thecodeholic-mcv-projects\phpmvc\Application;
+use thecodeholic\phpmvc\Application;
 use PDO;
 
 class Database
