@@ -7,5 +7,10 @@
             "email": "duytuanvn1986@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "thecodeholic-mcv-projects\\phpmvc": "./"
+        }
+    }
 }

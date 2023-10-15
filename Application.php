@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic-mcv-projects\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use thecodeholic-mcv-projects\phpmvc\db\Database;
+use thecodeholic-mcv-projects\phpmvc\db\DbModel;
 use app\models\User;
 
 class Application

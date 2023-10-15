@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace thecodeholic-mcv-projects\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use thecodeholic-mcv-projects\phpmvc\Application;
+use thecodeholic-mcv-projects\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

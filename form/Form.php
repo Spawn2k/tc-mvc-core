@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace thecodeholic-mcv-projects\phpmvc\form;
 
-use app\core\Model;
+use thecodeholic-mcv-projects\phpmvc\Model;
 
 class Form
 {

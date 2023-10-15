@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace thecodeholic-mcv-projects\phpmvc\middlewares;
 
 
 abstract class BaseMiddleware

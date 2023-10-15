@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic-mcv-projects\phpmvc;
 
-use app\core\db\DbModel;
+use thecodeholic-mcv-projects\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

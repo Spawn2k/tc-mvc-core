@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace thecodeholic-mcv-projects\phpmvc;
 
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+use thecodeholic-mcv-projects\phpmvc\Application;
+use thecodeholic-mcv-projects\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
